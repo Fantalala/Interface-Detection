@@ -10,12 +10,7 @@
 
 Each interface is one continuous, ordered, sub-pixel curve. It runs from the free surface on the left, down the wall, around the bottom, and back up to the free surface on the right. Every point is flagged as **measured** (a real edge was found there) or **not measured** (hidden by the meniscus band and extrapolated). After the collapse, the script also traces the oil drop that is left behind.
 
-Current version: **v3** (2026-09-29). See the [version history](#version-history).
-
-![before / after](smooth_overlap_v2_vs_v3.png)
-
-*Left: previous version (v2). Right: current version (v3), with smooth profiles and both curves overlapping on the water/air walls.*
-
+Current version: **v3** (2026-09-29).
 ---
 
 ## Contents
